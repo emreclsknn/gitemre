@@ -7,3 +7,6 @@ ezme
 tavuk
 patates
 döner
+sarma
+börek
+bulgur
