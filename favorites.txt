@@ -7,3 +7,9 @@ ezme
 nohut
 dolma
 fasulye
+elma
+armut
+karpuz
+kivi
+domates
+bamya
