@@ -10,6 +10,3 @@ fasulye
 elma
 armut
 karpuz
-kivi
-domates
-bamya
