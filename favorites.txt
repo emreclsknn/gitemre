@@ -1,3 +1,6 @@
 Makarna
 kunefe
 sarma
+baklava
+kurufasulye
+ezme
