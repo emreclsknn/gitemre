@@ -4,3 +4,6 @@ sarma
 baklava
 kurufasulye
 ezme
+tavuk
+patates
+döner
